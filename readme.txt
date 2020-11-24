@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 online repository
 Creating a new branch is quick.
 Now is low master ready to merge test branch
+Creating a new branch is quick AND simple
+
